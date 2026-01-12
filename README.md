@@ -4,7 +4,7 @@
 
 A tool for recording typing animations and sounds with imitated chat UI.
 
-- LIVE: [chat-bubbles.islomurodov.uz](https://chat-bubbles.islomurodov.uz)
+- LIVE: [chat-bubbles.eeslom.uz](https://chat-bubbles.eeslom.uz)
 - [Video tutorial](https://youtu.be/zu_vqAWHy_E)
 
 Customisable bubble colour by [rackodo](https://github.com/rackodo).
